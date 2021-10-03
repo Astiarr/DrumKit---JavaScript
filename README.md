@@ -1,4 +1,4 @@
-# DrumKit---JavaScript
+# DrumKit-JavaScript
 
 ----------- This exercice comes from a bootcamp made by Doctor Angela Yu. Some personnalisations and updates have been made by myself -----------
 
